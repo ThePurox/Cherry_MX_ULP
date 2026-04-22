@@ -58,10 +58,10 @@ Acquiring the right keycaps for Cherry MX ULP switches involves several potentia
     - [Mask Keyboard](https://www.reddit.com/r/ErgoMechKeyboards/comments/zpo9h6/mask200_4x6_split_keyboard_with_cherry_mxulp_keys/) by [marcoster](https://github.com/marcoster)
     - [Several keycap designs](https://www.thingiverse.com/thing:6058656) by [Alescito](https://www.thingiverse.com/alescito/designs)
     - [Cairn Mesa Keyboard](https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key) by [Cairn Devices](https://www.cairn-devices.eu/)
-    - [Distorted Ellipsoidal Saddle Keycaps](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles) originally by [Pseudoku](https://github.com/pseudoku) adapted to ULP by [Purox](https://ncxy.de)
     - [Distorted Ellipsoidal Saddle Keycaps](https://github.com/ThePurox/Cherry-ULP-DES-Keycaps) originally by [Pseudoku](https://github.com/pseudoku) adapted to ULP by [Purox](https://ncxy.de)
     - [Chicago Stenographer](https://github.com/ThePurox/Cherry-ULP-Chicago-Stenographer-Keycaps) originally by [Pseudoku](https://github.com/pseudoku) adapted to ULP by [Purox](https://ncxy.de) to Choc spacing (18x17mm) and CXF spacing (17x17mm)
     - [Subliminal Contradiction](https://github.com/ThePurox/Subliminal-Contradiction-Cherry-ULP) originally by [Pseudoku](https://github.com/pseudoku) adapted to ULP by [Purox](https://ncxy.de) in mx spacing (19x19mm)
+    - [Fooker's Mnhttn keycaps](https://github.com/fooker/mnhttn/tree/main/keycaps) are Choc spaced
 
 ### Dimensions and photos
 
@@ -102,6 +102,8 @@ For inspiration or technical insight, check out these projects that incorporate 
 8. [Entegame aka ULPBLEndgame](https://github.com/ThePurox/ULPBLEndgame) by [Purox](https://ncxy.de)
 9. [Choeradodis](https://github.com/ThePurox/Choeradodis) by [Purox](https://ncxy.de)
 10. [Zplitzalp](https://github.com/ThePurox/zplitzalp) by [Purox](https://ncxy.de)
+11. [Mausi](https://git.clacktal.es/purox/Mausi) by [Purox](https://ncxy.de)
+12. [ULP-Sweep aka. Swulp](https://git.clacktal.es/purox/Swulp) by [Purox](https://ncxy.de)
 
 ### Custom Components and Techniques
 1. Interesting take on [handwiring using point pins](https://www.reddit.com/r/ErgoMechKeyboards/comments/18qr1xp/cherry_ulp_prototyping/) by [Magnus Ascathon](https://www.reddit.com/user/Magnus_Ascathon/)
